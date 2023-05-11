@@ -8,9 +8,6 @@ function Header(props) {
                 <Container>
                     <Navbar.Brand href="#home">DevOps Project</Navbar.Brand>
                     <Nav className="me-auto">
-                        <Nav.Link >Asset</Nav.Link>
-                        <Nav.Link >Management</Nav.Link>
-                        <Nav.Link>Software</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
