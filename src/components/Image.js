@@ -71,7 +71,6 @@ function Image(props) {
     const geturl = "http://127.0.0.1:5000/getStudent"
     const posturl = "http://127.0.0.1:5000/postStudent"
 
-    // const [asset,setAssets] = useState(null);
 
     const [column, setColumn] = useState([]);
     const [records, setRecords] = useState([]);
